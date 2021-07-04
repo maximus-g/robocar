@@ -12,7 +12,7 @@ When the distance between the car and an obstacle is less than 10 cm while it is
 ### **Components Used:**
 * x2 Arduino Mega 2560 (You can use any type you want really, but the pins connection differ obviously);
 * FT-MC-002 Kit;
-* x2 NRF24L01 Transceiver Module (Download the driver at [link] https://github.com/nRF24/RF24);
+* x2 NRF24L01 Transceiver Module (Download the driver [here](https://github.com/nRF24/RF24));
 * x2 HC-SR04 Ultrasonic Sensor;
 * Liquid Crystal Display (LCD) 16x2;
 * Piezoelectric Buzzer;
